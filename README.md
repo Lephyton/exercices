@@ -9,6 +9,8 @@ Format CSV
 Une liste de personnes : prénom, nom, email, genre, adresse ip
 Un entête qui décrit les différentes colonnes
 Les colonnes sont séparées par des virgules
+
+
 Exercice 1
 
 Écrire un script qui lit le fichier CSV et affiche les 30 premières personnes en respectant le format suivant :

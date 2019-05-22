@@ -33,6 +33,6 @@ Ou encore pour limiter le nombre de résultats python ton_script.py --gender=mal
 
 Ou bien pour chercher par le nom ou le prenom python ton_script.py --name=Forest
 
-Cordialement,
+Cordialement, v
 
 -- Dimitri SÉGARD

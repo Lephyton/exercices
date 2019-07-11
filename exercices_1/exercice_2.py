@@ -2,7 +2,7 @@
 #recuperer toutes les lignes dont la colone gender est egal à male
 #creer  un autre fichier csv et y ecrire ces informations
  
-
+print ("voici un result")
 def read_csv (mon_fichier):
     with open(mon_fichier, 'r') as f:
         lines = f.readlines()
